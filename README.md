@@ -1,2 +1,2 @@
 # MoviesAPI
-Java springboot and mongodb project 
+Learning SpringBoot and MongoDb
